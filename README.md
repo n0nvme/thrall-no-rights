@@ -1,0 +1,1 @@
+# thrall-no-rights
