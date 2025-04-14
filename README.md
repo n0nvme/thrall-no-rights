@@ -1,1 +1,3 @@
 # thrall-no-rights
+
+test
